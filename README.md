@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Aditya Jadhav 👋
 
-<!--
-**theadityajadhav/theadityajadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst focused on turning data into clear insights and practical business decisions.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SQL & MySQL
+- Excel & Advanced Excel
+- Data Analysis
+- Business Intelligence
+- Data Visualization
+- Business Problem Solving
+
+## Tools
+
+- MySQL
+- Microsoft Excel
+- Power BI
+- Python
+- Pandas
+- GitHub
+
+## Featured Projects
+
+### AstroSage Customer Support Analytics & Performance Dashboard
+Analyzed customer support data to identify trends, repeat callers, workload patterns, and opportunities for improving operational efficiency.
+
+### Chinook Music Store SQL Analysis
+Used SQL to analyze customer behavior, sales performance, products, and business trends from a relational database.
+
+## What I Bring
+
+I combine analytical thinking, business understanding, and data-driven problem solving to turn raw data into meaningful insights.
+
+## Connect
+
+- LinkedIn: https://linkedin.com/in/aditya-jadhav-tech
